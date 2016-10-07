@@ -27,7 +27,7 @@ The design works well with 3mm thick material too but you need to move the tabs 
 ```
  1) Open the dxf and delete the base plate that you do not want.
  2) Arrange the parts accordingly to fit on to the A4 sheet.
- 3) United lines (it will make cutting faster) and Cut.
+ 3) Unite lines (it will make cutting faster) and Cut.
  4) Arrange the parts and layout in preparation for assembly.
  5) Glue sides and base plate together and leave to dry.
  6) For each M2 screw: screw on one nut, push through Nanode mounting hole, screw on two more nuts.
